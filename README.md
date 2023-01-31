@@ -1,1 +1,1 @@
-# counter-app
+Open app.js for full code
