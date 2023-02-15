@@ -23,6 +23,7 @@ export default function App() {
   }
   return (
     <div className='App'>
+      <h1>Aman Singh</h1>
       <h1>Counter Application</h1>
       <h1 style={{
         color: color,
